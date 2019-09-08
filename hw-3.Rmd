@@ -1,8 +1,9 @@
-# hw-3
-
-Homework 3 in STAT400: Computational Statistics @ CSU
-
-## Assignment
+---
+title: "STAT400 - Homework 3"
+author: "Your Name"
+date: "Due 9/19/2019 by 4pm"
+output: pdf_document
+---
 
 1. Let $X \sim \text{Uniform}(a, b)$. Derive $E[X]$ and $Var[X]$.
 
@@ -45,4 +46,3 @@ Homework 3 in STAT400: Computational Statistics @ CSU
     
 
 
-Turn in in a pdf of your homework to canvas. 
