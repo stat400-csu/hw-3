@@ -15,9 +15,9 @@ Homework 3 in STAT400: Computational Statistics @ CSU
     b. Find $Var[X]$
     c. Before the die is rolled you are offered either $1/3.5 = \$0.29$ (guaranteed amount) or $h(X) = 1/X$ dollars (random amount). Would you accept the guaranteed amount or would you gamble? In your answer, discuss what this means about $1/E[X]$ as compared to $E[1/X]$. In particular, does $1/E[X]$ always equal $E[1/X]$?
     
-4. Give thre examples of Bernoulli random variables.
+4. Give three examples of Bernoulli random variables.
 
-5. For each of the random vriables defined below, describe the sample space (set of possible values) and state whether the random variable is continuous or discrete.
+5. For each of the random variables defined below, describe the sample space (set of possible values) and state whether the random variable is continuous or discrete.
     a. $X=$ the number of unbroken eggs in a dozen eggs.
     b. $Y=$ the pH of a randomly chosen soil sample.
     c. $Z=$ the number of CSU students who skipped their first class.
@@ -41,7 +41,7 @@ Homework 3 in STAT400: Computational Statistics @ CSU
     $$
     a. Compute $P(X > 0.5)$
     b. Find $f_X(x)$.
-    c, The median $\tilde{\mu}$ of a continuous random variable is the $50^{th}$ percentile of the distribution, given by $0.5 = F_X(\tilde{\mu})$. Show that $\tilde{\mu} = 0$.
+    c. The median $\tilde{\mu}$ of a continuous random variable is the $50^{th}$ percentile of the distribution, given by $0.5 = F_X(\tilde{\mu})$. Show that $\tilde{\mu} = 0$.
     
 
 
